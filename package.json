@@ -1,0 +1,14 @@
+{
+  "name": "static-site-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "serve": "serve static"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
