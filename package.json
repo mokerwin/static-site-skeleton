@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "serve": "serve static"
+    "serve": "serve static",
+    "start": "serve static"
   },
   "keywords": [],
   "author": "",
